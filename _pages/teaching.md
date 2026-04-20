@@ -4,9 +4,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<p>I was appointed a Fellow of the Higher Education Academy (FHEA), an international accreditation in recognition of substantial, evidence-based teaching experience in higher education. I have four years of teaching experience, centering on research methods, critical appraisal, and scientific communication across undergraduate and postgraduate settings. 
+<p>In 2021, I was appointed a Fellow of the Higher Education Academy (FHEA), an international accreditation in recognition of substantial, evidence-based teaching experience in higher education. I have four years of teaching experience, centering on research methods, critical appraisal, and scientific communication across undergraduate and postgraduate settings.</p>
   
-  Broadly, my approach is student-centered, inquiry-driven, and shaped by active learning, practical application, and timely feedback. I aim to help students build confidence in rigorous scientific thinking while developing the ability to analyse evidence, communicate clearly, and apply their learning in real-world academic and professional contexts.</p>
+ <p>Broadly, my approach is student-centered, inquiry-driven, and shaped by active learning, practical application, and timely feedback. I aim to help students build confidence in rigorous scientific thinking while developing the ability to analyse evidence, communicate clearly, and apply their learning in real-world academic and professional contexts.</p>
 
 <h2>Teaching Assistant, PUBH7000 — Research Methods for the Master of Public Health</h2>
 <p><strong>The University of Queensland | 2021–2023</strong></p>
