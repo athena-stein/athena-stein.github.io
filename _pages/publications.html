@@ -1,36 +1,35 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Featured publications
 
-{% include base_path %}
+### 1. [Establishing naturalistic brain stimulation targeting aperiodic EEG features: Transcranial Endogenous Current Stimulation (tECS)](/files/14_stein_2026_tecs.pdf)
+My first-author Brain Stimulation paper introducing tECS, a biomimetic stimulation framework in which waveforms are derived from an individual’s EEG, parametrically edited, and re-delivered as neuromodulation.
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+### 2. [Daily EEG reveals stage-specific alpha power and functional connectivity modulation across five days of tACS in major depressive disorder](/files/13_stein_2026_glad2.pdf)
+A first-author preprint examining the daily trajectory of EEG target engagement across five days of 10 Hz tACS in major depressive disorder.
 
+### 3. [Evidence of ongoing cerebral microstructural reorganization in children with persisting symptoms following mild traumatic brain injury: a NODDI DTI analysis](/files/04_stein_2024_noddi.pdf)
+A first-author study using diffusion MRI to characterize ongoing cerebral microstructural reorganization following pediatric mild traumatic brain injury.
 
+## Full publication list
 
+### Reverse-chronological list
+
+- [14. Establishing naturalistic brain stimulation targeting aperiodic EEG features: Transcranial Endogenous Current Stimulation (tECS)](/files/14_stein_2026_tecs.pdf)
+- [13. Daily EEG reveals stage-specific alpha power and functional connectivity modulation across five days of tACS in major depressive disorder](/files/13_stein_2026_glad2.pdf)
+- [12. Suppression of Endogenous Alpha Power Predicts Clinical Response to 10 Hz tACS in Major Depressive Disorder: A Double-Blind Randomized Controlled Trial](/files/12_schwippel_2026_glad2.pdf)
+- [11. Not just childish games: An exploration of different game-based assessments and discussion of gamification in clinical pediatric populations](/files/11_wischnewskistein_2026_games.pdf)
+- [10. Safety, Feasibility, and Tolerability of Ten Days of At-Home, Remotely Supervised tDCS During Gamified Attention Training in Children with Acquired Brain Injury: An Open-Label, Dose-Controlled Pilot Trial](/files/10_stein_2025_athometdcs.pdf)
+- [09. The Effect of a Single Session of Transcranial Direct Current Stimulation on Attention in Pediatric Acquired Brain Injury: Characterizing Interindividual Structural and Functional Network Response Variability](/files/09_stein_2025_singletdcs.pdf)
+- [08. Author's Reply to: Comment on “Orthostatic Tachycardia in Children With and Without Persisting Postconcussion Symptoms Following Mild Traumatic Brain Injury: A Prospective Controlled Study”](/files/08_barlowstein_2025_potsreply.pdf)
+- [07. Orthostatic tachycardia in children with and without persisting post concussion symptoms following mild traumatic brain injury: A prospective controlled study](/files/07_stein_2026_pots.pdf)
+- [06. Attention please! Unravelling the link between brain network connectivity and cognitive attention following acquired brain injury: a systematic review of structural and functional measures](/files/06_stein_2024_sysreview.pdf)
+- [05. The treatment gap for deep brain stimulation in Parkinson’s disease: a comparative analysis of cost and utilisation in high-income countries](/files/05_stein_2024_DBS.pdf)
+- [04. Evidence of ongoing cerebral microstructural reorganization in children with persisting symptoms following mild traumatic brain injury: a NODDI DTI analysis](/files/04_stein_2024_noddi.pdf)
+- [03. Cerebral activation of attention and working memory in traumatic brain injury](/files/03_stein_2022_chapter.pdf)
+- [02. The effect of pediatric traumatic brain injury on simulated transcranial direct current stimulation electric field](/files/02_stein_2022_efield.pdf)
+- [01. Changes in Working Memory-Related Cortical Responses Following Pediatric Mild Traumatic Brain Injury: A Longitudinal Study](/files/01_stein_2021_wmfmri.pdf)
