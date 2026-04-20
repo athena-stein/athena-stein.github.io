@@ -12,7 +12,7 @@ author_profile: true
       <a href="/files/14_stein_2026_tecs.pdf"><strong>Stein A, Floegel E, Zhang M, Subramaniyan A, Sharma S, Feldman Z, Evers M, Riddle J, Meltzer-Brody S, Frohlich F. (2026).</strong> Establishing naturalistic brain stimulation targeting aperiodic EEG features: Transcranial Endogenous Current Stimulation (tECS). <em>Brain Stimulation: Basic, Translational, and Clinical Research in Neuromodulation.</em></a>
     </p>
     <p>
-      My first-author Brain Stimulation paper introducing tECS, a biomimetic stimulation framework in which waveforms are derived from an individual’s EEG, parametrically edited, and re-delivered as neuromodulation.
+      First-author Brain Stimulation paper introducing tECS, a biomimetic stimulation framework in which waveforms are derived from an individual’s EEG, parametrically edited, and re-delivered as neuromodulation.
     </p>
   </li>
 
@@ -21,7 +21,7 @@ author_profile: true
       <a href="/files/13_stein_2026_glad2.pdf"><strong>Stein A*, Schwippel TU*, Pupillo FM, LaGarde HC, Zhang M, Rubinow DR, Frohlich F. (2026).</strong> Daily EEG reveals stage-specific alpha power and functional connectivity modulation across five days of tACS in major depressive disorder. <em>medRxiv.</em></a>
     </p>
     <p>
-      A first-author preprint examining the daily trajectory of EEG target engagement across five days of 10 Hz tACS in major depressive disorder.
+      First-author preprint examining the daily trajectory of EEG target engagement across five days of 10 Hz tACS in major depressive disorder.
     </p>
   </li>
 
@@ -30,7 +30,7 @@ author_profile: true
       <a href="/files/10_stein_2025_athometdcs.pdf"><strong>Stein A, Riddle J, Caulfield KA, Dux PE, Friehs MA, Schroeder PA, Craven MP, Groom MJ, Iyer KK, Barlow KM. (2025).</strong> Safety, Feasibility, and Tolerability of Ten Days of At-Home, Remotely Supervised tDCS During Gamified Attention Training in Children with Acquired Brain Injury: An Open-Label, Dose-Controlled Pilot Trial. <em>Brain Sciences.</em></a>
     </p>
     <p>
-      A first-author clinical trial demonstrating the safety and feasibility of remotely supervised at-home brain stimulation in pediatric acquired brain injury.
+      First-author clinical trial demonstrating the safety and feasibility of remotely supervised at-home brain stimulation in pediatric acquired brain injury.
     </p>
   </li>
 </ol>
