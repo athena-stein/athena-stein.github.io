@@ -31,4 +31,6 @@ author_profile: true
   <li>Led tutorials in a large undergraduate biomedical science course</li>
   <li>Contributed to redevelopment of the Bachelor of Biomedical Science Research Capstone course</li>
   <li>Supported students in critical appraisal, research design, and the development of rigorous scientific reasoning</li>
+  <li>Received a Teaching and Learning Excellence Award from UQ Faculty of Medicine</li>
+
 </ul>
