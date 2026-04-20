@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<p>I was appointed a Fellow of the Higher Education Academy (FHEA) in recognition of substantial, evidence-based teaching experience in higher education. My teaching has centered on research methods, critical appraisal, and scientific communication across undergraduate and postgraduate settings. 
+<p>I was appointed a Fellow of the Higher Education Academy (FHEA), an international accreditation in recognition of substantial, evidence-based teaching experience in higher education. I have four years of teaching experience, centering on research methods, critical appraisal, and scientific communication across undergraduate and postgraduate settings. 
   
   Broadly, my approach is student-centered, inquiry-driven, and shaped by active learning, practical application, and timely feedback. I aim to help students build confidence in rigorous scientific thinking while developing the ability to analyse evidence, communicate clearly, and apply their learning in real-world academic and professional contexts.</p>
 
