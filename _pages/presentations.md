@@ -4,15 +4,14 @@ permalink: /presentations/
 author_profile: true
 ---
 
-<p>This page brings together invited talks, conference presentations, posters, media, and public-facing science communication activities.</p>
+<p>This page brings together invited academic talks, conference presentations, posters, media, and public-facing science communication activities.</p>
 
 <h2>Invited academic talks and presentations</h2>
 
 <h3>Seminars</h3>
 <ul>
-  <li><strong>Invited Speaker</strong> — American Australian Association Annual Benefit Dinner, New York City, USA (Oct 2024)</li>
-  <li><strong>Invited Speaker</strong> — UC &amp; Western Neurotrauma Symposium, UCLA, Los Angeles, USA (Oct 2024). <em>Developing tDCS as a treatment for attention problems in pediatric acquired brain injury: From biomarker identification to at-home treatment</em></li>
   <li><strong>Invited Seminar</strong> — UC San Diego and CAMH Toronto (Jul 2022). <em>Using non-invasive brain stimulation to improve executive function following acquired brain injury in children</em></li>
+  <li><strong>Invited Speaker</strong> — UC &amp; Western Neurotrauma Symposium, UCLA, Los Angeles, USA (Oct 2024). <em>Developing tDCS as a treatment for attention problems in pediatric acquired brain injury: From biomarker identification to at-home treatment</em></li>
 </ul>
 
 <h3>Conference talks and symposia</h3>
@@ -32,13 +31,44 @@ author_profile: true
 
 <h2>Media and science communication</h2>
 
-<ul>
-  <li><strong>The Rhythmic Forum</strong> — Carolina Center for Neurostimulation (Apr 2026). Led coordination of and performed in a music and neuroscience event featuring live EEG, musical performances, and a mental health panel.</li>
-  <li><strong>Natural Rhythms</strong> — Carolina Performing Arts / UNC School of Medicine (Feb 2025). Led and coordinated Carolina Center for Neurostimulation participation in an event featuring live EEG streaming during a violin performance.</li>
-  <li><strong>Interviewee / media article </strong> — UNC Health / School of Medicine (Dec 2024). Featured in the <em>Postdoc Journeys</em> article and video interview.</li>
-  <li><strong>TV Interviewee</strong> — 10 News Australia (Dec 2023). Interviewed about advanced DTI/NODDI work on structural connectivity during recovery from pediatric mild traumatic brain injury.</li>
-  <li><strong>Media article subject</strong> — <em>Advanced imaging predicts the recovery of children with brain injury</em> (Dec 2023). Featured in the UQ Queensland Brain Institute media release and <em>The Hippocratic Post</em>.</li>
-  <li><strong>TV Interviewee</strong> — 10 News Australia (Oct 2023). Interviewed about a personalized home tDCS headband and home-based clinical trial following acquired brain injury in children.</li>
-</ul>
+<h3>The Rhythmic Forum</h3>
+<p><strong>Carolina Center for Neurostimulation (Apr 2026).</strong> I led coordination of and performed in this music and neuroscience event featuring live EEG, musical performances, and a mental health panel.</p>
 
-<p>Embedded videos, poster PDFs, and talk materials can be added to this page as they become available.</p>
+<!-- Replace VIDEO_ID_HERE once you have the YouTube link -->
+<div style="max-width: 820px; margin: 1.2rem auto;">
+  <iframe
+    width="100%"
+    height="460"
+    src="https://www.youtube.com/embed/VIDEO_ID_HERE"
+    title="The Rhythmic Forum"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="border-radius: 10px;">
+  </iframe>
+</div>
+
+<div style="display: flex; gap: 14px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin: 1.25rem 0 2rem 0;">
+  <img src="/images/athena_performers.png" alt="The Rhythmic Forum performers" style="width: 31%; min-width: 220px; max-width: 260px; border-radius: 8px;">
+  <img src="/images/athena_sax.png" alt="Athena performing saxophone" style="width: 31%; min-width: 220px; max-width: 260px; border-radius: 8px;">
+  <img src="/images/athena_team.png" alt="The Rhythmic Forum team" style="width: 31%; min-width: 220px; max-width: 260px; border-radius: 8px;">
+</div>
+
+<h3>Natural Rhythms</h3>
+<p><strong>Carolina Performing Arts / UNC School of Medicine (Feb 2025).</strong> I led and coordinated Carolina Center for Neurostimulation participation in an <a href="https://www.dailytarheel.com/article/2025/02/lifestyle-natural-rhythms" target="_blank">event featuring live EEG streaming during a violin performance</a>. See <a href="https://www.linkedin.com/posts/found-media-llc_artsatunc-neurology-videoproduction-activity-7323696863142973440-0iOF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACytmBEBURMbYoqAv4rlDyEAXqevDkFS2Kk" target="_blank">video</a>.</p>
+
+<p style="text-align: center; margin: 1.2rem 0 2rem 0;">
+  <img src="/images/athena_natural_rhythms.png" alt="Natural Rhythms event" style="max-width: 100%; width: 520px; border-radius: 8px;">
+</p>
+
+<h3>UNC Health / School of Medicine</h3>
+<p><strong>Interviewee / media article subject (Dec 2024).</strong> Featured in the <a href="https://news.unchealthcare.org/2024/12/how-an-australian-researcher-found-her-home-at-unc-chapel-hill/" target="_blank"><em>Postdoc Journeys</em> article and video interview</a>.</p>
+
+<h3>10 News Australia — Dec 2023</h3>
+<p><strong>TV Interviewee.</strong> Interviewed about advanced DTI/NODDI work on structural connectivity during recovery from pediatric mild traumatic brain injury. See <a href="https://www.facebook.com/reel/744329660878887" target="_blank">video interview</a>.</p>
+
+<h3>Advanced imaging predicts the recovery of children with brain injury — Dec 2023</h3>
+<p><strong>Media article subject.</strong> Featured in the <a href="https://qbi.uq.edu.au/article/2023/12/advanced-imaging-predicts-recovery-children-brain-injury" target="_blank">UQ Queensland Brain Institute media release</a> and <a href="https://www.hippocraticpost.com/paediatrics/advanced-imaging-predicts-the-recovery-of-children-with-brain-injury/" target="_blank"><em>The Hippocratic Post</em></a>.</p>
+
+<h3>10 News Australia — Oct 2023</h3>
+<p><strong>TV Interviewee.</strong> Interviewed about a personalized home tDCS headband and home-based clinical trial following acquired brain injury in children. See <a href="https://www.bionicsgamechangers.com.au/in-the-news-homegrown-innovation-set-to-change-kids-lives/" target="_blank">tv news interview</a>.</p>
