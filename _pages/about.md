@@ -1,38 +1,29 @@
----
-permalink: /
-title: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+I am a Postdoctoral Associate in Psychiatry at the University of North Carolina at Chapel Hill, working in the Carolina Center for Neurostimulation and the Frohlich Lab. I develop brain stimulation signals that mimic endogenous brain activity and test these biomimetic neuromodulation approaches in depression and antenatal depression. My work combines signal design, clinical trial execution, and electrophysiology to build more precise, physiology-grounded treatments for psychiatric illness.
 
-I am a Postdoctoral Associate in the Department of Psychiatry at the University of North Carolina at Chapel Hill, working in the Carolina Center for Neurostimulation and the Frohlich Lab. My research focuses on biomimetic neuromodulation: developing brain stimulation signals that more closely reflect endogenous brain activity, and using human electrophysiology to optimize how those signals engage dysfunction-relevant circuits in depression.
-
-I currently work across mechanistic and translational psychiatry, including closed-loop tACS in major depressive disorder, naturalistic stimulation approaches in antenatal depression, and endogenous waveform-based stimulation frameworks such as transcranial endogenous current stimulation (tECS). My long-term goal is to build an independent translational research program that uses human electrophysiology to design and optimize stimulation signals that more precisely engage depression-relevant circuits.
+My long-term goal is to build an independent translational research program that uses human electrophysiology to design and optimize stimulation signals that more precisely engage depression-relevant circuits.
 
 <br>
 
 <p style="text-align: center;">
-  <img src="/images/tecs_graphic.png" alt="tECS graphic" style="max-width: 100%; width: 800px;">
+  <img src="/images/tecs_graphic.png" alt="tECS graphic" style="max-width: 100%; width: 780px;">
 </p>
 
-## Current research program
+## Why biomimetic stimulation?
 
-My current work asks whether brain stimulation can be made more precise by using signals that better reflect the temporal structure of real neural activity. Rather than relying only on highly synthetic waveforms, I am interested in physiologically grounded approaches that can be tested, refined, and translated in psychiatry.
+My work is driven by a simple question: why do we stimulate the brain with synthetic signals that do not look like actual brain activity? I am interested in whether treatment response can be improved when neuromodulation instead uses signals that better reflect endogenous neural dynamics.
 
-## Biomimetic neuromodulation
+## What I am building
 
-A major focus of my work is the development of endogenous and biomimetic stimulation approaches, including transcranial endogenous current stimulation (tECS) and physiology-informed TMS (piTMS). Across these projects, I treat the stimulation signal itself as an engineerable variable, with the goal of improving how neuromodulation engages depression-relevant circuits.
+At UNC, I develop and help lead personalized neuromodulation approaches in psychiatry, including closed-loop tACS in major depressive disorder and naturalistic stimulation approaches in antenatal depression. A major focus of this work is understanding EEG-based biomarkers of brain network dysfunction and using electrophysiology to quantify target engagement.
 
-## Electrophysiology and target engagement
+## tECS
 
-I use high-density EEG and related electrophysiological methods to define biomarkers of brain network dysfunction and quantify target engagement. I am particularly interested in how oscillatory and non-oscillatory neural dynamics can be used not only to personalize stimulation, but also to guide more rational and mechanistically informed intervention design.
+To address these questions, I developed transcranial endogenous current stimulation (tECS), a framework in which stimulation waveforms are derived from an individual’s own EEG, selectively edited to target specific physiological features, and re-delivered as neuromodulation. I served as first author on our 2026 *Brain Stimulation* paper defining tECS and demonstrating initial neurophysiological target engagement.
 
-## Training and background
+## Background and trajectory
 
-Before moving to UNC, I completed my PhD in Clinical Neuroscience at the University of Queensland Child Health Research Centre in Australia. My doctoral work investigated the use of non-invasive brain stimulation to improve attention in children following acquired brain injury, combining structural and functional brain connectivity analyses with clinical trial delivery, including the first remotely supervised at-home brain stimulation trial in pediatric acquired brain injury.
+Before moving to UNC, I completed my PhD in Clinical Neuroscience at the University of Queensland Child Health Research Centre in Australia, where I investigated non-invasive brain stimulation to improve attention in children following acquired brain injury. That work combined structural and functional brain connectivity analyses with biomarker development and clinical trial delivery, including the first remotely supervised at-home brain stimulation trial in pediatric acquired brain injury.
 
-## Broader perspective
+## Long-term vision
 
-My background sits at the intersection of clinical neuroscience, engineering, and psychology, and I strongly value multidisciplinary integration. Guided in part by my MPH training, I am also interested in the broader translational questions that shape real-world impact, including scalability, accessibility, implementation, and science communication.
+What distinguishes my program is its focus on the stimulation signal itself as the engineerable variable. Rather than only individualizing frequency or phase, I am interested in using the temporal structure of brain activity to construct more physiologically grounded stimulation waveforms, and in using human electrophysiology to refine those signals for clinical translation.
