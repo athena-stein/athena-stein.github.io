@@ -38,7 +38,7 @@ author_profile: true
   <iframe
     width="100%"
     height="350"
-    src="https://www.youtube.com/embed/VIDEO_ID_HERE"
+    src="[https://www.youtube.com/embed/VIDEO_ID_HERE](https://www.youtube.com/watch?v=9dox31q0sho)"
     title="The Rhythmic Forum"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
