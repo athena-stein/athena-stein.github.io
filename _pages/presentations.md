@@ -34,31 +34,30 @@ author_profile: true
 <h3>The Rhythmic Forum</h3>
 <p><strong>Carolina Center for Neurostimulation (Apr 2026).</strong> I led coordination of and performed in this music and neuroscience event featuring live EEG, musical performances, and a mental health panel.</p>
 
-<!-- Replace VIDEO_ID_HERE once you have the YouTube link -->
-<div style="max-width: 820px; margin: 1.2rem auto;">
+<div style="max-width: 620px; margin: 1rem auto 1.5rem auto;">
   <iframe
     width="100%"
-    height="460"
+    height="350"
     src="https://www.youtube.com/embed/VIDEO_ID_HERE"
     title="The Rhythmic Forum"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-    style="border-radius: 10px;">
+    style="border-radius: 10px; display: block;">
   </iframe>
 </div>
 
 <div style="display: flex; gap: 14px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin: 1.25rem 0 2rem 0;">
-  <img src="/images/athena_performers.png" alt="The Rhythmic Forum performers" style="width: 31%; min-width: 220px; max-width: 260px; border-radius: 8px;">
-  <img src="/images/athena_sax.png" alt="Athena performing saxophone" style="width: 31%; min-width: 220px; max-width: 260px; border-radius: 8px;">
-  <img src="/images/athena_team.png" alt="The Rhythmic Forum team" style="width: 31%; min-width: 220px; max-width: 260px; border-radius: 8px;">
+  <img src="/images/athena_performers.jpg" alt="The Rhythmic Forum performers" style="width: 31%; min-width: 170px; max-width: 210px; border-radius: 8px;">
+  <img src="/images/athena_sax.jpg" alt="Athena performing saxophone" style="width: 31%; min-width: 170px; max-width: 210px; border-radius: 8px;">
+  <img src="/images/athena_team.jpg" alt="The Rhythmic Forum team" style="width: 31%; min-width: 170px; max-width: 210px; border-radius: 8px;">
 </div>
 
 <h3>Natural Rhythms</h3>
 <p><strong>Carolina Performing Arts / UNC School of Medicine (Feb 2025).</strong> I led and coordinated Carolina Center for Neurostimulation participation in an <a href="https://www.dailytarheel.com/article/2025/02/lifestyle-natural-rhythms" target="_blank">event featuring live EEG streaming during a violin performance</a>. See <a href="https://www.linkedin.com/posts/found-media-llc_artsatunc-neurology-videoproduction-activity-7323696863142973440-0iOF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACytmBEBURMbYoqAv4rlDyEAXqevDkFS2Kk" target="_blank">video</a>.</p>
 
 <p style="text-align: center; margin: 1.2rem 0 2rem 0;">
-  <img src="/images/athena_natural_rhythms.png" alt="Natural Rhythms event" style="max-width: 100%; width: 520px; border-radius: 8px;">
+  <img src="/images/athena_natural_rhythms.jpg" alt="Natural Rhythms event" style="max-width: 100%; width: 460px; border-radius: 8px;">
 </p>
 
 <h3>UNC Health / School of Medicine</h3>
