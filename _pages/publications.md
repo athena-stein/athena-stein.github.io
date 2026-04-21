@@ -6,7 +6,7 @@ author_profile: true
 
 <h2>Featured publications</h2>
 
-<ol>
+<ul>
   <li>
     <p>
       <strong>Stein A</strong>, Floegel E, Zhang M, Subramaniyan A, Sharma S, Feldman Z, Evers M, Riddle J, Meltzer-Brody S, Frohlich F. (2026).
@@ -39,7 +39,7 @@ author_profile: true
       First-author clinical trial demonstrating the safety and feasibility of remotely supervised at-home brain stimulation in pediatric acquired brain injury.
     </p>
   </li>
-</ol>
+</ul>
 
 <h2>Full publication list</h2>
 
