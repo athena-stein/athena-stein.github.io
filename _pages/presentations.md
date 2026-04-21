@@ -34,21 +34,27 @@ author_profile: true
 <h3>The Rhythmic Forum</h3>
 <p><strong>Carolina Center for Neurostimulation (Apr 2026).</strong> I led coordination of and performed in this music and neuroscience event featuring live EEG, musical performances, and a mental health panel.</p>
 
-<div style="max-width: 320px; margin: 1rem auto 1.5rem auto;">
+<div style="max-width: 640px; margin: 1rem auto 1.5rem auto;">
   <iframe
     src="https://www.youtube.com/embed/9dox31q0sho"
     title="The Rhythmic Forum"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-    style="width: 100%; aspect-ratio: 9 / 16; border: 0; border-radius: 10px; display: block;">
+    style="width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: 10px; display: block;">
   </iframe>
 </div>
 
 <div style="display: flex; gap: 14px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin: 1.25rem 0 2rem 0;">
-  <img src="/images/athena_performers.jpg" alt="The Rhythmic Forum performers" style="width: 31%; min-width: 170px; max-width: 210px; border-radius: 8px;">
-  <img src="/images/athena_sax.jpg" alt="Athena performing saxophone" style="width: 31%; min-width: 170px; max-width: 210px; border-radius: 8px;">
-  <img src="/images/athena_team.jpg" alt="The Rhythmic Forum team" style="width: 31%; min-width: 170px; max-width: 210px; border-radius: 8px;">
+  <a href="/images/athena_performers.jpg" target="_blank">
+    <img src="/images/athena_performers.jpg" alt="The Rhythmic Forum performers" style="width: 31%; min-width: 170px; max-width: 210px; border-radius: 8px; cursor: pointer;">
+  </a>
+  <a href="/images/athena_sax.jpg" target="_blank">
+    <img src="/images/athena_sax.jpg" alt="Athena performing saxophone" style="width: 31%; min-width: 170px; max-width: 210px; border-radius: 8px; cursor: pointer;">
+  </a>
+  <a href="/images/athena_team.jpg" target="_blank">
+    <img src="/images/athena_team.jpg" alt="The Rhythmic Forum team" style="width: 31%; min-width: 170px; max-width: 210px; border-radius: 8px; cursor: pointer;">
+  </a>
 </div>
 
 <hr style="border: none; border-top: 1px solid #e6e6e6; margin: 2rem 0;">
@@ -57,7 +63,9 @@ author_profile: true
 <p><strong>Carolina Performing Arts / UNC School of Medicine (Feb 2025).</strong> I led and coordinated Carolina Center for Neurostimulation participation in an <a href="https://www.dailytarheel.com/article/2025/02/lifestyle-natural-rhythms" target="_blank">event featuring live EEG streaming during a violin performance</a>. See <a href="https://www.linkedin.com/posts/found-media-llc_artsatunc-neurology-videoproduction-activity-7323696863142973440-0iOF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACytmBEBURMbYoqAv4rlDyEAXqevDkFS2Kk" target="_blank">video</a>.</p>
 
 <p style="text-align: center; margin: 1.2rem 0 2rem 0;">
-  <img src="/images/athena_natural_rhythms.jpg" alt="Natural Rhythms event" style="max-width: 100%; width: 460px; border-radius: 8px;">
+  <a href="/images/athena_natural_rhythms.jpg" target="_blank">
+    <img src="/images/athena_natural_rhythms.jpg" alt="Natural Rhythms event" style="max-width: 100%; width: 460px; border-radius: 8px; cursor: pointer;">
+  </a>
 </p>
 
 <hr style="border: none; border-top: 1px solid #e6e6e6; margin: 2rem 0;">
