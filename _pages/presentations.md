@@ -53,6 +53,8 @@ author_profile: true
   <img src="/images/athena_team.jpg" alt="The Rhythmic Forum team" style="width: 31%; min-width: 170px; max-width: 210px; border-radius: 8px;">
 </div>
 
+<hr style="border: none; border-top: 1px solid #e6e6e6; margin: 2rem 0;">
+
 <h3>Natural Rhythms</h3>
 <p><strong>Carolina Performing Arts / UNC School of Medicine (Feb 2025).</strong> I led and coordinated Carolina Center for Neurostimulation participation in an <a href="https://www.dailytarheel.com/article/2025/02/lifestyle-natural-rhythms" target="_blank">event featuring live EEG streaming during a violin performance</a>. See <a href="https://www.linkedin.com/posts/found-media-llc_artsatunc-neurology-videoproduction-activity-7323696863142973440-0iOF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACytmBEBURMbYoqAv4rlDyEAXqevDkFS2Kk" target="_blank">video</a>.</p>
 
@@ -60,14 +62,22 @@ author_profile: true
   <img src="/images/athena_natural_rhythms.jpg" alt="Natural Rhythms event" style="max-width: 100%; width: 460px; border-radius: 8px;">
 </p>
 
+<hr style="border: none; border-top: 1px solid #e6e6e6; margin: 2rem 0;">
+
 <h3>UNC Health / School of Medicine</h3>
 <p><strong>Interviewee / media article subject (Dec 2024).</strong> Featured in the <a href="https://news.unchealthcare.org/2024/12/how-an-australian-researcher-found-her-home-at-unc-chapel-hill/" target="_blank"><em>Postdoc Journeys</em> article and video interview</a>.</p>
+
+<hr style="border: none; border-top: 1px solid #e6e6e6; margin: 2rem 0;">
 
 <h3>10 News Australia — Dec 2023</h3>
 <p><strong>TV Interviewee.</strong> Interviewed about advanced DTI/NODDI work on structural connectivity during recovery from pediatric mild traumatic brain injury. See <a href="https://www.facebook.com/reel/744329660878887" target="_blank">video interview</a>.</p>
 
+<hr style="border: none; border-top: 1px solid #e6e6e6; margin: 2rem 0;">
+
 <h3>Advanced imaging predicts the recovery of children with brain injury — Dec 2023</h3>
 <p><strong>Media article subject.</strong> Featured in the <a href="https://qbi.uq.edu.au/article/2023/12/advanced-imaging-predicts-recovery-children-brain-injury" target="_blank">UQ Queensland Brain Institute media release</a> and <a href="https://www.hippocraticpost.com/paediatrics/advanced-imaging-predicts-the-recovery-of-children-with-brain-injury/" target="_blank"><em>The Hippocratic Post</em></a>.</p>
+
+<hr style="border: none; border-top: 1px solid #e6e6e6; margin: 2rem 0;">
 
 <h3>10 News Australia — Oct 2023</h3>
 <p><strong>TV Interviewee.</strong> Interviewed about a personalized home tDCS headband and home-based clinical trial following acquired brain injury in children. See <a href="https://www.bionicsgamechangers.com.au/in-the-news-homegrown-innovation-set-to-change-kids-lives/" target="_blank">tv news interview</a>.</p>
