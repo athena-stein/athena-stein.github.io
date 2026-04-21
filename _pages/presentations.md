@@ -34,16 +34,14 @@ author_profile: true
 <h3>The Rhythmic Forum</h3>
 <p><strong>Carolina Center for Neurostimulation (Apr 2026).</strong> I led coordination of and performed in this music and neuroscience event featuring live EEG, musical performances, and a mental health panel.</p>
 
-<div style="max-width: 620px; margin: 1rem auto 1.5rem auto;">
+<div style="max-width: 320px; margin: 1rem auto 1.5rem auto;">
   <iframe
-    width="100%"
-    height="350"
     src="https://www.youtube.com/embed/9dox31q0sho"
     title="The Rhythmic Forum"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-    style="border-radius: 10px; display: block;">
+    style="width: 100%; aspect-ratio: 9 / 16; border: 0; border-radius: 10px; display: block;">
   </iframe>
 </div>
 
